@@ -1,2 +1,3 @@
-# food-atlas
-Everything about food
+Food Atlas - Everything about Food
+
+Wordpress based website
