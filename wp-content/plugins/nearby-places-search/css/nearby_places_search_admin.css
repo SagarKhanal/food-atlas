@@ -1,0 +1,24 @@
+/**
+ * Near by places search css file.
+ */
+.form-item {
+    padding: 3px 0;
+    margin: 0;
+    border: 0;
+}
+.form-type-checkbox {
+  float: left;
+  width: 16%;
+}
+
+#bottom-section {
+  clear: both;
+  width: 100%;
+}
+label.option {
+    display: inline;
+    font-weight: normal;
+}
+input[type="checkbox"] {
+    margin-bottom: -6px;
+}

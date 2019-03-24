@@ -1,0 +1,14 @@
+
+.wpgmp_infowindow .fc-item-title {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    color: #212f3d;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.fc-item-featured_image img {
+    float: left;
+    width: 200px !important;
+    margin-right: 10px;
+}
